@@ -1,0 +1,11 @@
+1. Make venv
+2. Check whether the -m mask option in FSL Randomise shouldn't be binarized.
+3. Get 'slurm magic' working (control notebook computing on CC from local)
+4. Get Nigel Code dl working
+5. Can I replace 2 corrupted scans?
+6. Copy scripts to notebook, beautify and comment
+7. Generate images nicer. When generating images, use a similar slice as theirs. Use the GT as the background (as opposed to the MNI or nilearns default)
+8. When overlapping ith AAL atlas, make it automated (intersection with atlas label, dictionary maps label to brainpart). get all parts by overlap size.
+extra: dice coefficient between region similarity?
+
+
